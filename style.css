@@ -1,0 +1,27 @@
+#borda{
+    margin: 600px;
+    margin-top: 150px;
+    height: 50vh;
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid black;
+    background-image: url(fundo.jpg);
+}
+
+#titulo{
+    font-family: Pattaya;
+}
+
+#fraseExibicao {
+    margin-left: 15px;
+    font-size: 2.2em;
+    font-family: Dancing Script;
+}
+
+#autorFrase{
+    font-size: 1.8em;
+    font-family: Dancing Script;
+    font-style: italic;
+}
